@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/index/bg.jpg');
+  background-position:center top;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  position:relative;
+  left:-353px;
+  width:800px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:800px;
+  height:2245px;
+}
+#u0 {
+  position:absolute;
+  left:353px;
+  top:100px;
+  width:800px;
+  height:2245px;
+  font-family:'微软雅黑 Light', '微软雅黑';
+  font-weight:290;
+  font-style:normal;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:1114px;
+  width:796px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
